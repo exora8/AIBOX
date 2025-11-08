@@ -1,6 +1,6 @@
 {
-    "timestamp": "2025-11-09 03:30:50",
+    "timestamp": "2025-11-09 03:37:47",
     "battery_level": 51,
-    "temperature_celsius": 31.4,
-    "status": "CHARGING"
+    "temperature_celsius": 31.5,
+    "status": "NOT_CHARGING"
 }
